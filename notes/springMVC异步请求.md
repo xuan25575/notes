@@ -148,5 +148,5 @@ public class DeferredResultQueue {
 
 以上代码处理模型是流程如下：
 
-![1564290941332](D:\data\document\images\DeferredResult处理模型.png)
+![1564290941332](images/DeferredResult处理模型.png)
 
